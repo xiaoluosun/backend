@@ -1,7 +1,8 @@
+基于Python3.6.5
+
 # 安装依赖项
 
 ```Shell
-cd backend
 pip install -r requirements.txt
 ```
 
